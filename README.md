@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Luong Ngoc Linh 👋
+### Full Stack Developer / MIS Student at ULSA
 
-<!--
-**linh07042005/linh07042005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Education:** Final-year student in Management Information Systems (MIS) at University of Labor and Social Affairs (ULSA).
+- 💻 **Tech Stack:** PHP, Python (Flask/FastAPI), SQL (MySQL), HTML5, CSS3, JavaScript (ES6+), Bootstrap.
+- 🛠️ **Tools & Frameworks:** Git, GitHub, Postman, VS Code, MOS Excel/Word.
+- 🎯 **Career Goal:** Seeking a Full Stack Developer / Software Engineer Internship opportunity.
+- 📫 **Contact:** linhluong.070425@gmail.com | 📞 +84 385 501 887
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+- **Backend:** PHP, Python (Flask), RESTful API
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+- **Database:** SQL, MySQL, Database Design & Optimization
+- **Software Engineering:** Data Structures & Algorithms, System Analysis & Design (UML/Use Case)
